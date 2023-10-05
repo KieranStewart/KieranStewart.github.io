@@ -1,0 +1,1 @@
+This is a website made for github.io. I don't know how to make a website so if it's bad that is a bit of a skill issue on my end.
